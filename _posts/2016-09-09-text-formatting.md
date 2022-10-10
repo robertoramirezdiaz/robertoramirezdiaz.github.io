@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Career"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: career.jpg
 ---
 
 # Markdown Support
